@@ -1,2 +1,2 @@
-# outfenneced.github.io
-Personal site, experimentation
+# outfenneced.github.io/willpthompson.com
+Personal site, experimentation with static site generators
