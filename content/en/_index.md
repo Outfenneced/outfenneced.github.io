@@ -27,7 +27,7 @@ header:
     title:
       - Will Thompson
     subtitle:
-      - The test Hugo static site with ZZO theme
+      - Test static site
     titleColor: 
     titleShadow: false
     titleFontSize: 44

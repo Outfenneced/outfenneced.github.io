@@ -5,6 +5,6 @@ description: First post on test static website
 draft: false
 ---
 
-# First Test Post
+## First Test Post
 
 Testing out markdown support
