@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Will Thompson - Experimental Static Site'
 theme = "zzo"
 
-viewportSize = "widest"
-
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
